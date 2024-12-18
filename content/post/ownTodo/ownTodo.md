@@ -6,6 +6,6 @@ categories:
 tags:
     - Example Tag
 ---
-# 个人近期TOdo
+# 个人近期Todo
 - rust操作系统公开实验课
 - 6.s081实验课
