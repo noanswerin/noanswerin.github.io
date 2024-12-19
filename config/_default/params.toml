@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "https://raw.githubusercontent.com/noanswerin/myPicture/main/star.png"
+favicon = "/star.png"
 
 [footer]
 since = 2020
@@ -19,7 +19,7 @@ subtitle = "get hand dirty"
 [sidebar.avatar]
 enabled = true
 local = false
-src = "https://raw.githubusercontent.com/noanswerin/myPicture/main/1.jpg"
+src = "img/girl.jpg"
 
 [article]
 headingAnchor = false
